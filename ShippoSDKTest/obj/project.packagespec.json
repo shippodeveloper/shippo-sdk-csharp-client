@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/ShippoSDKTest.csproj",
+    "projectName": "ShippoSDKTest",
+    "projectPath": "/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/ShippoSDKTest.csproj",
+    "outputPath": "/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDK/ShippoSDK.csproj": {
+            "projectPath": "/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDK/ShippoSDK.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "MSTest.TestAdapter": {
+          "target": "Package",
+          "version": "[1.3.2, )"
+        },
+        "MSTest.TestFramework": {
+          "target": "Package",
+          "version": "[1.3.2, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.9.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,27 @@
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDK/bin/Debug/netstandard2.0/ShippoSDK.deps.json
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDK/bin/Debug/netstandard2.0/ShippoSDK.dll
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDK/bin/Debug/netstandard2.0/ShippoSDK.pdb
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.csprojAssemblyReference.cache
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.csproj.CoreCompileInputs.cache
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.AssemblyInfoInputs.cache
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.AssemblyInfo.cs
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.dll
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.pdb
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDK/bin/Debug/netstandard2.0/ShippoSDK.deps.json
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDK/bin/Debug/netstandard2.0/ShippoSDK.dll
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDK/bin/Debug/netstandard2.0/ShippoSDK.pdb
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.csprojAssemblyReference.cache
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.csproj.CoreCompileInputs.cache
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.AssemblyInfoInputs.cache
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.AssemblyInfo.cs
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.dll
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.pdb
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDK/bin/Debug/netstandard2.0/ShippoSDK.deps.json
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDK/bin/Debug/netstandard2.0/ShippoSDK.dll
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDK/bin/Debug/netstandard2.0/ShippoSDK.pdb
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.csprojAssemblyReference.cache
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.csproj.CoreCompileInputs.cache
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.AssemblyInfoInputs.cache
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.AssemblyInfo.cs
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.dll
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDK/obj/Debug/netstandard2.0/ShippoSDK.pdb
