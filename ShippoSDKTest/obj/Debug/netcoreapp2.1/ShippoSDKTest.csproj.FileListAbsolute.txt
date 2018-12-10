@@ -1,0 +1,51 @@
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDKTest.deps.json
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDKTest.runtimeconfig.json
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDKTest.runtimeconfig.dev.json
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDKTest.dll
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDKTest.pdb
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDK.dll
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDK.pdb
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.csprojAssemblyReference.cache
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.csproj.CoreCompileInputs.cache
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.AssemblyInfoInputs.cache
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.AssemblyInfo.cs
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.csproj.CopyComplete
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.dll
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/Shippo/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.pdb
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDKTest.deps.json
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDKTest.runtimeconfig.json
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDKTest.runtimeconfig.dev.json
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDKTest.dll
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDKTest.pdb
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDK.dll
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDK.pdb
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.csprojAssemblyReference.cache
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.csproj.CoreCompileInputs.cache
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.AssemblyInfoInputs.cache
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.AssemblyInfo.cs
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.csproj.CopyComplete
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.dll
+/home/jmthuong97/Desktop/ShippoSDK/Final/Master final/ShippoSDK/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.pdb
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDKTest.deps.json
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDKTest.runtimeconfig.json
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDKTest.runtimeconfig.dev.json
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDKTest.dll
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDKTest.pdb
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDK.dll
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/bin/Debug/netcoreapp2.1/ShippoSDK.pdb
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.csprojAssemblyReference.cache
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.csproj.CoreCompileInputs.cache
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.AssemblyInfoInputs.cache
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.AssemblyInfo.cs
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.csproj.CopyComplete
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.dll
+/home/jmthuong97/Desktop/shippo-sdk-csharp-client/ShippoSDKTest/obj/Debug/netcoreapp2.1/ShippoSDKTest.pdb
